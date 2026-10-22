@@ -1,0 +1,1 @@
+// id, first_node, second_node, distance, bidirectional 

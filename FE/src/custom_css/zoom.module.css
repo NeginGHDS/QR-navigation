@@ -1,0 +1,13 @@
+.zoomWrap {
+    overflow: hidden;
+    /* width: 200px; */
+  }
+  
+  .zoomWrap img {
+    transition: transform 1.5s ease;
+  }
+  
+  .zoomWrap:hover img {
+    transform: scale(1.1);
+  }
+  
